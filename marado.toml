@@ -1,0 +1,12 @@
+[application]
+name        = "My Application"
+author      = "Me"
+version     = "0.0.1"
+description = "My Application Description"
+repository  = "github.com/elanticrypt0/Marado"
+# Host and Port for the web server
+host        = "localhost"
+port        = 6543
+
+[database]
+postgres = { host="localhost",port=5432,dbname="maradodb",user="marado",password="marado" }

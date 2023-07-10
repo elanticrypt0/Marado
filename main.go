@@ -1,0 +1,5 @@
+package marado
+
+func main() {
+	// ...
+}
